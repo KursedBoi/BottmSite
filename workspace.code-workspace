@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\SUMMER_2021\\kursed_krovets_site"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BottmSite"
+	}
+}
